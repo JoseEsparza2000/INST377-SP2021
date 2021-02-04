@@ -20,7 +20,7 @@ body {
 /* || typography */
 
 h1, h2, h3 {
-  font-family: 'Cinzel Decorative', cursive;
+  font-family: 'Potta One';
   color: #2a2a2a;
 }
 
@@ -60,7 +60,7 @@ p, li {
 }
 
 body > * {
-  background-color: red;
+  background-color:rgba(0,255,0,0.5);
   padding: 1%;
 }
 
