@@ -1,6 +1,6 @@
 /* Put your javascript in here */ 
     /* label the images, just for convenience, to visually track them */
-    carousel.querySelectorAll('li').array.forEach(styleFunction); 
+    carousel.querySelectorAll('li').forEach(styleFunction); 
 
     function styleFunction(li,index){
         li.style.position = 'relative';
