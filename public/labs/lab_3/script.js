@@ -4,7 +4,8 @@
 
     function styleFunction(li,index){
         li.style.position = 'relative';
-        li.insertAdjacentHTML('beforeend', `<span style="position:absolute;left:0;top:0">${index +1}</span>`);
+        li.insertAdjacentHTML('beforeend', `<span style="position:absolute;left:0;top:0">${index +1}</span>`); 
+    };
 
     /* configuration */
     let width = 130; // image width
