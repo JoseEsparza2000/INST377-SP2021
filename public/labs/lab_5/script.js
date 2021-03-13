@@ -1,4 +1,4 @@
-/* eslint-disable max-len */
+
 var mymap = L.map('mapid').setView([38.9675, -76.9537], 13);
 
 const cities = [];
